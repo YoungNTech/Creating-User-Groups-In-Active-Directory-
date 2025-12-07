@@ -1,5 +1,3 @@
-## Watch me do the lab HERE
-https://www.loom.com/share/c1c11cb19b3a42b38848a4c762aed109
 
 # Active Directory Lab Report
 
@@ -15,27 +13,36 @@ The objective of this lab was to perform basic Active Directory management tasks
    - Right-clicked and selected **New > User**.
    - Entered the user's first name, last name, and logon name.
    - Completed the user creation wizard.
-<img width="772" height="459" alt="image" src="https://github.com/user-attachments/assets/39d7a5df-24ec-451e-a47b-4f210f2d4c6c" />
-<img width="754" height="567" alt="image" src="https://github.com/user-attachments/assets/aa50efe2-8d98-4ff1-bc28-17289e43b153" />
-<img width="431" height="376" alt="image" src="https://github.com/user-attachments/assets/829fcdbd-1ec2-4a12-8bac-bc1baa0f7170" />
-<img width="751" height="527" alt="image" src="https://github.com/user-attachments/assets/928f3293-799b-4cfe-b29d-166c0c2d5a41" />
+<img width="760" height="640" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/892d244b-7517-419d-a1fe-1d1b6725384b" />
+<img width="760" height="640" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/003dc59e-a3cf-4dc2-b413-98321b916015" />
+<img width="760" height="640" alt="Screenshot 2025-12-05 004610" src="https://github.com/user-attachments/assets/98ee401c-8e98-4717-86e3-08e98eabb568" />
+<img width="760" height="640" alt="Screenshot 2025-12-05 004849" src="https://github.com/user-attachments/assets/d2f67540-3ef9-4617-816e-fe38caed5efd" />
+
+
+
+
    
 2. **Created a Group**
    - In ADUC, navigated to the same or another OU.
    - Right-clicked and selected **New > Group**.
    - Named the group appropriately.
    - Set the *Group Scope* (e.g., Global) and *Group Type* (e.g., Security)
-<img width="754" height="559" alt="image" src="https://github.com/user-attachments/assets/e3efe4e8-9b47-4763-a6c1-cc2442e8b052" />
-<img width="434" height="378" alt="image" src="https://github.com/user-attachments/assets/cb62c783-24f9-4421-8624-ffccbd1bb5c4" />
-<img width="752" height="528" alt="image" src="https://github.com/user-attachments/assets/ee7d44e0-a546-4ee7-bbd3-f1842a67e826" />
+<img width="760" height="640" alt="Screenshot 2025-12-05 005006" src="https://github.com/user-attachments/assets/fc671c5b-110c-4e5f-a3f4-59b64700a787" /><img width="1386" height="1262" alt="Screenshot 2025-12-05 005036" src="https://github.com/user-attachments/assets/1a12f15c-feca-4e2a-8661-e5f3658fe647" />
+
+
+
+
 
 3. **Reset the User’s Password**
    - Located the user account in ADUC.
    - Right-clicked the user and selected **Reset Password**.
    - Entered and confirmed a new password.
    - Checked the option **User must change password at next logon** (if required).
-<img width="640" height="902" alt="image" src="https://github.com/user-attachments/assets/991de1f4-63f3-41a6-acdf-ea8b1a574f87" />
-<img width="376" height="261" alt="image" src="https://github.com/user-attachments/assets/c5cec83a-f80e-42c4-980f-84df6116af7f" />
+<img width="760" height="640" alt="Screenshot 2025-12-05 005332" src="https://github.com/user-attachments/assets/724dc551-ea63-4b4a-8d0c-ca467d596e26" /><img width="450" height="400" alt="Screenshot 2025-12-05 005423" src="https://github.com/user-attachments/assets/8f215754-b435-4376-ad90-d6f145fe59b9" />
+<img width="600" height="550" alt="Screenshot 2025-12-05 005453" src="https://github.com/user-attachments/assets/29ff743e-6e59-49a1-86dc-5fc9121b9273" />
+
+
+
 
 ## Outcome
 All tasks were successfully completed. The new user and group were created, and the user’s password was reset successfully.
